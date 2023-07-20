@@ -328,5 +328,6 @@
    "gridcloud",
    "snghbeer",
    "algorand/algod:latest",
-   "algorand/indexer:latest"
+   "algorand/indexer:latest",
+   "tarampampam/3proxy"
 ]
